@@ -109,28 +109,29 @@
 </html>
 
 <!-- README.md -->
-<!--
 # Attendance Calculator
 
-A simple tool to calculate attendance percentage and understand the impact of missed classes.
+A lightweight web-based tool for calculating attendance percentage and understanding how absences impact your overall attendance.
 
 ## Features
-- Calculates attendance percentage.
-- Shows the effect of one leave on your attendance.
-- Provides actionable tips to maintain 75% attendance.
+- Calculates attendance percentage based on total and attended classes.
+- Displays the percentage reduction for each missed class.
+- Provides actionable tips to maintain a minimum attendance of 75%.
 
-## Usage
+## How to Use
 1. Clone the repository:
    ```bash
    git clone <repository_url>
    ```
-2. Open `index.html` in a web browser.
-3. Enter the total number of classes and the number of classes attended.
-4. View the attendance percentage and suggestions.
+2. Open `index.html` in your browser.
+3. Enter the total number of classes and the number of classes you have attended.
+4. View your attendance percentage, the impact of a single leave, and tips for improvement.
 
-## Contributing
-Feel free to contribute by forking this repository and creating pull requests.
+## Contribution
+Contributions are welcome! To contribute:
+1. Fork the repository.
+2. Create a feature branch.
+3. Submit a pull request.
 
 ## License
-MIT License.
--->
+This project is licensed under the MIT License.
