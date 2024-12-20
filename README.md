@@ -108,28 +108,29 @@
 </body>
 </html>
 
-<!-- GitHub Repository Instructions -->
+<!-- README.md -->
 <!--
 # Attendance Calculator
-This is a simple HTML, CSS, and JavaScript project that helps students calculate their attendance percentage. It also provides insights such as how much your attendance percentage decreases with each leave and tips to maintain 75% attendance.
+
+A simple tool to calculate attendance percentage and understand the impact of missed classes.
 
 ## Features
-- Calculate attendance percentage.
-- Estimate the impact of a single leave on your attendance.
-- Provide actionable tips for maintaining 75% attendance.
+- Calculates attendance percentage.
+- Shows the effect of one leave on your attendance.
+- Provides actionable tips to maintain 75% attendance.
 
-## How to Use
+## Usage
 1. Clone the repository:
    ```bash
    git clone <repository_url>
    ```
-2. Open `index.html` in your browser.
-3. Enter the total number of classes and the classes attended.
-4. View your attendance percentage and actionable insights.
+2. Open `index.html` in a web browser.
+3. Enter the total number of classes and the number of classes attended.
+4. View the attendance percentage and suggestions.
 
 ## Contributing
-Feel free to fork this repository, make your changes, and submit a pull request!
+Feel free to contribute by forking this repository and creating pull requests.
 
 ## License
-This project is open-source and available under the MIT License.
+MIT License.
 -->
